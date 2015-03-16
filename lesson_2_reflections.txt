@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 The repository starts tracking the changes that take place in it. This is necessary so that the progress and changes to a file(s) can be tracked in an organizational way.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an intermediary place between the working directory and the repository and provides a separate place to track what files are being committed to the repository.
