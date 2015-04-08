@@ -13,3 +13,7 @@ The staging area shows you what you are about to commit so that you can see whic
 How do the diagrams help you visualize the branch structure?
 
 The diagrams show me how to understand the relationships between various commits and how branches separate out features of each commit and how versions of code can come about and be maintained separately.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The historical changes made to the two branches are combined into one single historical record.
