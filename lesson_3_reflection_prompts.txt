@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+A remote repository is preferable to a local repository when the work will be shared with other users, when different computers will be used to complete work and when the reliability of the current computer is in question and saving the work remotely will ensure it's preservation.
+
