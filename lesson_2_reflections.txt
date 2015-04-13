@@ -17,3 +17,7 @@ The diagrams show me how to understand the relationships between various commits
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The historical changes made to the two branches are combined into one single historical record.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging is quicker then manually merging, but manually allows one to more closely examine the differences that are being merged and changed.
